@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlertClassWork</string>
+    <string name="test1">多選對話框</string>
+    <string name="test2">客製化對話框</string>
+    <string name="yourname">輸入您的名子</string>
+    <string name="noname">輸入錯誤</string>
+    <string name="okname">你叫做</string>
+</resources>
